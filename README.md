@@ -5,7 +5,7 @@
 
 ## 💻 About the Project
 Use of reactjs to control the stock of a tennis store. Covering API concepts for preserving cart data with localStorage API, using fake API JSON server to simulate stock information 
-and toastify to display error messages. <br/>This project was developed for [Rocketseat](https://rocketseat.com.br) ignite second challenge, trail 2021.
+and toastify to display error messages. <br/>This project was developed for [Rocketseat](https://rocketseat.com.br) ignite second challenge, 2021 trail.
 
 ## 💡 Technologies Used 
 - HTML
